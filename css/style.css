@@ -1,0 +1,51 @@
+body {
+  background-color: #7E459B;
+  margin: 0px;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  margin: 30px;
+}
+
+header h1 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+header h2 {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+main .questao p {
+  font-size: 25px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+main .btn {
+  border-radius: 50px 10px;
+  color: #7E459B;
+  font-size: 20px;
+  margin: 15px;
+  padding: 10px;
+  background-color: white;
+}
+
+main .mudaCorBotao {
+  background-color: #7E459B;
+  color: white;
+}
+
+main .calculo #resultado {
+  font-style: italic;
+  font-size: 20px;
+  margin-left: 600px;
+  color: white;
+}
+
+main .calculo #fraseFinal {
+  margin-left: 600px;
+  font-size: 20px;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
